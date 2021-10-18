@@ -124,7 +124,7 @@ body {background: #EEE;}
   height: 56px;
 }
 body {
-	background-image: url(images/2.png);
+	background-image: url(images/2.png);/*绝对路径；./是相对路径*/
 	background-size: cover;
 }
 .siteList .addButton .text {
