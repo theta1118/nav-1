@@ -30,19 +30,19 @@ body {background: #EEE;}
   }
 }
 .searchForm > input {
-  width: 100%;
   margin-right: 10px;
+  width: 561px;
   height: 40px;
   padding: 0 10px;
   border: 1px solid #DDD;
-  border-radius: 4px;
+  border-radius:6px ;
 }
 .searchForm > button {
   white-space: nowrap;
   padding: 0 28px;
   border: none;
   border-radius: 4px;
-  background: #0282B9;
+  background: #1677FF;
   color: white;
   font-size: 16px;
 }
@@ -122,6 +122,10 @@ body {background: #EEE;}
 .siteList .addButton .icon {
   width: 56px;
   height: 56px;
+}
+body {
+	background-image: url(images/2.png);
+	background-size: cover;
 }
 .siteList .addButton .text {
   font-size: 14px;
